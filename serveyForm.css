@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+}
+.servey{
+    text-align: center;
+}
+.container{
+    background-color: white;
+    height:650px;
+    width: 600px;
+}
+.center{
+    display: inline;
+}
+span{
+    color: wheat;
+}
+
+/* .container-fluid{
+    background-color: red;
+    padding-top: 20px;
+    margin-top: 20px;
+    line-height: normal;
+} */
+
+.footer{
+   text-align: center;
+}
